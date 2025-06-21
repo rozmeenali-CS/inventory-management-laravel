@@ -29,33 +29,50 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+ # Laravel Inventory Management System
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+A complete Inventory Management System built with Laravel 10, Bootstrap 5, and MySQL.
 
-### Premium Partners
+## 🚀 Features
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+- ✅ Admin Login with Default Credentials
+- ✅ Add/Edit/Delete/Search Products
+- ✅ Store Cost Price and Selling Price
+- ✅ Auto Profit Calculation
+- ✅ Responsive Dashboard with Bootstrap UI
+- ✅ Animated Product Form (Quantity Dropdown, Image Upload)
+- ✅ Product Statistics & Last Login Info
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## 🛠️ Tech Stack
 
-## Code of Conduct
+- Laravel 10
+- PHP 8+
+- MySQL
+- Bootstrap 5
+- Custom CSS
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## 📦 Installation
 
-## Security Vulnerabilities
+```bash
+git clone https://github.com/rozmeenali-CS/inventory-management-laravel.git
+cd inventory-management-laravel
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
+Default Admin Login:
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Username: rozmeenali413@gmail.com
+
+Password: Rozmeen123
+
+
+
+
+
+
+
