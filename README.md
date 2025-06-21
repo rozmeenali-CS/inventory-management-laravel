@@ -21,13 +21,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
  # Laravel Inventory Management System
 
@@ -43,6 +39,31 @@ A complete Inventory Management System built with Laravel 10, Bootstrap 5, and M
 - ✅ Animated Product Form (Quantity Dropdown, Image Upload)
 - ✅ Product Statistics & Last Login Info
 
+
+## Screenshoots
+
+
+### 🧭 Login View  
+![Admin Login](screenshots/login.png)
+
+### ➕ Dashboard 
+![Dashboard](screenshots/dashboard.png)
+
+### 🔐 Add Product  
+![AddPRoduct](screenshots/addproduct.png)
+
+### 🔐 All Product  
+![AllProduct](screenshots/allproduct.png)
+
+### 🔐 Edit Product
+![EditProduct](screenshots/Editproduct.png)
+
+### 🔐  search Product 1 
+![SearchProduct](screenshots/searchprod.png)
+
+### 🔐  search Product 2
+![SearchProduct](screenshots/Searchpro2.png)
+---
 
 ## 🛠️ Tech Stack
 
