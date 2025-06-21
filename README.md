@@ -94,6 +94,11 @@ Password: Rozmeen123
 
 
 
+📧 Contact
+Rozmeen Ali
+📧 Email: your-email@example.com
+🔗 GitHub: rozmeenali-CS
+
 
 
 
